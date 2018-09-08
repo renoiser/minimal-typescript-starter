@@ -7,7 +7,7 @@ Webpack is used to traspile the `.ts` files to javascript. Webpack Dev Server is
 
 ## Pre-reqs
 
-You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/get-npm) installed on your maschine.
+You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/get-npm) installed on your machine.
 
 ## Install
 
