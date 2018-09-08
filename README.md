@@ -14,7 +14,7 @@ You need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/
 Simply clone the repository.
 
 ```
-git clone --depth=1 XXX <your_project_name>
+git clone --depth=1 https://github.com/renoiser/minimal-typescript-starter <your_project_name>
 ```
 
 Then install the project's dependencies:
